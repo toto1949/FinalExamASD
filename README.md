@@ -60,4 +60,4 @@ Update astronaut with ID 5.
 **Description**:  
 Update satellite with ID 5.
 
-![PUT Satellite](putAstro.png)
+![PUT Satellite](putSat.png)
